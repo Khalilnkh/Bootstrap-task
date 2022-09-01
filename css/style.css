@@ -1,0 +1,8 @@
+.all .container .boxes .col-md-6{
+    width: 50%;
+}
+.all .container .boxes .col-md-6 img{
+    width: 80%;
+    border-radius: 15px;
+
+}
